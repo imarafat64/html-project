@@ -1,2 +1,3 @@
 # html-project
-This is my my first git repository.
+This is my first git repository.
+Author - Yasir Arafat .
